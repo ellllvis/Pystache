@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="112" fill="#2b6cb0"/>
+  <rect x="96" y="320" width="96" height="96" rx="18" fill="#ffffff" opacity=".55"/>
+  <rect x="208" y="224" width="96" height="192" rx="18" fill="#ffffff" opacity=".75"/>
+  <rect x="320" y="128" width="96" height="288" rx="18" fill="#ffffff"/>
+  <text x="368" y="208" font-family="Menlo, monospace" font-size="72" font-weight="700" fill="#2b6cb0" text-anchor="middle">py</text>
+</svg>
